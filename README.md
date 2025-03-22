@@ -1,6 +1,6 @@
 ![logo](https://github.com/Kankana1012/Kankana1012/blob/main/pngtree-blue-digital-technology-electronic-banner-picture-image_1033187%20(1).jpg)
 <h1 align="center">Hi 👋, I'm Kankana</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A 3rd-year Computer Science & Technology student</h3>
 
 # 💫 About Me:
 <img align="right" alt="coding" width="350" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif">
