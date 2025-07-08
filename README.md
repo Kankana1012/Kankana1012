@@ -16,10 +16,10 @@
 ---
 
 ## 🌐 Socials:
-[![LinkedIn]www.linkedin.com/in/kankana-chakraborty]() 
-[![Kaggle][(https://img.shields.io/badge/Kaggle-%230077B5.svg?logo=kaggle&logoColor=white)](https://www.kaggle.com/kankanachakraborty)]() 
-[![HackerRank][(https://img.shields.io/badge/HackerRank-%230077B5.svg?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/lushichakraborty)]() 
-[![LeetCode]https://leetcode.com/u/Kankana_2000/]()
+[![LinkedIn](www.linkedin.com/in/kankana-chakraborty)() 
+[![Kaggle](https://www.kaggle.com/kankanachakraborty)() 
+[![HackerRank](https://www.hackerrank.com/profile/lushichakraborty)() 
+[![LeetCode](https://leetcode.com/u/Kankana_2000/)()
 
 ---
 
