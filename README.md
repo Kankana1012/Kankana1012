@@ -16,7 +16,7 @@
 ---
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]() 
+[![LinkedIn]www.linkedin.com/in/kankana-chakraborty]() 
 [![Kaggle](https://img.shields.io/badge/Kaggle-%230077B5.svg?logo=kaggle&logoColor=white)]() 
 [![HackerRank](https://img.shields.io/badge/HackerRank-%230077B5.svg?logo=hackerrank&logoColor=white)]() 
 [![LeetCode](https://img.shields.io/badge/LeetCode-%230077B5.svg?logo=leetcode&logoColor=white)]()
