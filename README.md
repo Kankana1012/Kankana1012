@@ -16,10 +16,10 @@
 ---
 
 ## 🌐 Socials:
-[![LinkedIn](www.linkedin.com/in/kankana-chakraborty)() 
-[![Kaggle](https://www.kaggle.com/kankanachakraborty)() 
-[![HackerRank](https://www.hackerrank.com/profile/lushichakraborty)() 
-[![LeetCode](https://leetcode.com/u/Kankana_2000/)()
+(www.linkedin.com/in/kankana-chakraborty)
+(https://www.kaggle.com/kankanachakraborty)
+(https://www.hackerrank.com/profile/lushichakraborty)
+(https://leetcode.com/u/Kankana_2000/)
 
 ---
 
