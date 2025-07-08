@@ -16,17 +16,19 @@
 ---
 
 ## 🌐 Socials:
-(www.linkedin.com/in/kankana-chakraborty)
-(https://www.kaggle.com/kankanachakraborty)
-(https://www.hackerrank.com/profile/lushichakraborty)
-(https://leetcode.com/u/Kankana_2000/)
+![Linkedin](www.linkedin.com/in/kankana-chakraborty)
+![kaggle](https://www.kaggle.com/kankanachakraborty)
+![hackerrank](https://www.hackerrank.com/profile/lushichakraborty)
+![leetcode](https://leetcode.com/u/Kankana_2000/)
 
 ---
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-%2300599C.svg?style=flat&logo=Java&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%2300599C.svg?style=flat&logo=JavaScript&logoColor=white)
 
 ---
 
