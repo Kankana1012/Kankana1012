@@ -34,9 +34,9 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=kankana1012&show_icons=true&theme=dark" alt="GitHub Stats"/>
 </p>
-<p align="left">
+<p align="Center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kankana1012&theme=dark" alt="GitHub Streak"/>
 </p>
-<p align="left">
+<p align="Center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kankana1012&layout=compact&theme=dark" alt="Most Used Languages"/>
 </p>
