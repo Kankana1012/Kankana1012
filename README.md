@@ -40,3 +40,10 @@
 <p align="Center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kankana1012&layout=compact&theme=dark" alt="Most Used Languages"/>
 </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kankana1012&show_icons=true&locale=en&layout=compact&theme=dark" alt="kankana1012" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kankana1012&show_icons=true&locale=en&theme=dark" alt="kankana1012" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kankana1012&theme=dark" alt="kankana1012" /></p>
+
