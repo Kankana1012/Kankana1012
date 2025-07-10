@@ -1,4 +1,4 @@
-![logo](https://github.com/Kankana1012/Kankana1012/pngtree-blue-digital-technology-electronic-banner-picture-image_1033187(1).jpg)
+![logo](Cover.jpg)
 <h1 align="center">Hi Github World👋, I'm Kankana</h1>
 <h3 align="center">A 3rd-year Computer Science & Technology student</h3>
 
