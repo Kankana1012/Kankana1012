@@ -1,4 +1,4 @@
-![logo](Cover.jpg)
+![logo](Purple Minimalist Brush Personal LinkedIn Banner (2).png)
 <h1 align="center">Hi Github World👋, I'm Kankana</h1>
 <h3 align="center">A 3rd-year Computer Science & Technology student</h3>
 
