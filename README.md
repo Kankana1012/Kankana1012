@@ -7,11 +7,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kankana1012&label=Profile%20views&color=yellow&style=flat" alt="kankana1012" /> </p>
 
-- 💻 I'm a passionate learner diving into the world of programming, focusing on a variety of programming languages and technologies.<br>
-- 🌟 I’m Consistent, Hard-Working, and Motivated.<br>
-- 🔗 I’m currently learning advanced Programming skills.<br>
+- 🎓 Final-year B.Tech student in Computer Science & Technology<br> 
+- 💡 Passionate about building **AI-powered applications & modern web interfaces** <br>
+- 🤖 Strong interest in **Artificial Intelligence, Machine Learning & RAG Systems** <br>
+- 🌱 Currently learning **DSA, React JS, and Advanced AI Concepts** <br> 
+- 🎯 Goal: To become a **high-paying Software Developer / AI Engineer**<br>
 - 📧 Reach me at: lushichakraborty@gmail.com<br>
-- ✨ Fun fact: I am funny!
+- ⚡ Fun fact: I love turning ideas into real-world impactful projects <br>
+
+
 
 ---
 
