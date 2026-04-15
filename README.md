@@ -1,4 +1,3 @@
-![logo](Purple Minimalist Brush Personal LinkedIn Banner (2).png)
 <h1 align="center">Hi Github World👋, I'm Kankana</h1>
 <h3 align="center">Aspiring Software Developer | AI/ML Enthusiast | Front-End Developer</h3>
 
