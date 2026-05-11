@@ -21,7 +21,7 @@
 
 ## 💫 About Me
  
-<img align="right" alt="coding" width="340" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif"/>
+<img align="right" alt="coding" width="340" src="assets/Girl Learning to Code Illustration _ Cozy Study Tech Art.jpeg"/>
 
 🎓 &nbsp;**Final-year B.Tech** in **Computer Science & Technology @ JIS College of Engineering** **(CGPA: 8.5/10)**
  
