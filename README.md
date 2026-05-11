@@ -259,14 +259,9 @@ Examines AI-driven recruitment tools, automation, and digital hiring platforms â
 ---
 
 ## ðŸ“Š GitHub Stats
-
+ 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=kankana1012&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="49%" alt="GitHub Stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kankana1012&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kankana1012&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="50%" alt="Top Languages"/>
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kankana1012&theme=radical&hide_border=true&ring=A78BFA&fire=FF6B9D&currStreakLabel=A78BFA&sideLabels=A78BFA&currStreakNum=ffffff&sideNums=ffffff&dates=aaaaaa&background=0D1117" width="70%" alt="GitHub Streak"/>
 </div>
 
 ---
