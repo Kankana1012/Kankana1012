@@ -62,20 +62,14 @@
 
 
 <td width="50%" valign="top">
+<a href="https://github.com/Kankana1012/Empathetic_AI_Assistant_SLM_RAG">
+<img src="./assets/projects/Mental-Care-Chatbot-thumbnail.png" alt="Mental Care Chatbot for Elderly" width="100%">
+</a>
 
 ### 🧓 [Empathetic AI Mental Care Chatbot for Elderly](https://github.com/Kankana1012)
-> *Fine-Tuned SLM with RAG & QLoRA Optimization*
+> *Mental Health Chatbot For The Elderly*
 
-**`Mistral-7B`** **`QLoRA`** **`RAG`** **`FAISS`** **`LangChain`** **`Streamlit`**
 
-- Fine-tuned **Mistral-7B** using QLoRA (4-bit) for therapeutic conversation
-- Built RAG pipeline with FAISS + MiniLM — reduced memory by **~70%** (1.9GB)
-- Response time **~720ms** | BLEU: 36.8 | BERTScore: 0.88 | Accuracy: 91%
-- Ablation studies confirmed SLM + RAG + LoRA combo boosts quality significantly
-
-</td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🔍 [RAG Hallucination Evaluation System](https://github.com/Kankana1012)
