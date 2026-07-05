@@ -50,20 +50,17 @@
 
 <table>
 <tr>
-<td width="50%" valign="top">
+
+<td align="center" width="50%">
+
+<a href="https://github.com/Kankana1012/AI-Assisted-Smart-Recruitment-System">
+<img src="./assets/projects/Recruitment-System-thumbnail.png" alt="AI Assisted Smart Recruitment System" width="100%">
+</a>
 
 ### 🤖 [AI-Assisted Smart Recruitment System](https://github.com/Kankana1012)
 > *AI-Based Resume Screening & Candidate Recommendation*
 
-**`Python`** **`Scikit-learn`** **`PyTorch`** **`NLP`** **`SHAP`** **`FAISS`** **`SBERT`**
 
-- Automated resume screening & candidate shortlisting using ML + NLP
-- Used TF-IDF, Sentence-BERT, FAISS for semantic similarity matching
-- Integrated **explainable AI (SHAP)** for transparent hiring decisions
-- 📄 Research paper published at **ICONFEST 2025** (Paper ID: 115)
-- 📄 Extended paper **under review at Elsevier** – Expert Systems with Applications
-
-</td>
 <td width="50%" valign="top">
 
 ### 🧓 [Empathetic AI Mental Care Chatbot for Elderly](https://github.com/Kankana1012)
