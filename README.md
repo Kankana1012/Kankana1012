@@ -60,44 +60,28 @@
 ### 🤖 [AI-Assisted Smart Recruitment System](https://github.com/Kankana1012)
 > *AI-Based Resume Screening & Candidate Recommendation*
 
+</td>
 
 <td width="50%" valign="top">
 <a href="https://github.com/Kankana1012/Empathetic_AI_Assistant_SLM_RAG">
 <img src="./assets/projects/Mental-Care-Chatbot-thumbnail.png" alt="Mental Care Chatbot for Elderly" width="100%">
 </a>
 
-### 🧓 [Empathetic AI Mental Care Chatbot for Elderly](https://github.com/Kankana1012)
+### <img width="38" src="https://img.icons8.com/fluency/96/elderly-person.png"/>[Empathetic AI Mental Care Chatbot for Elderly](https://github.com/Kankana1012)
 > *Mental Health Chatbot For The Elderly*
-
-
-<td width="50%" valign="top">
-
-### 🔍 [RAG Hallucination Evaluation System](https://github.com/Kankana1012)
-> *Hybrid Retrieval Pipeline & LLM-as-a-Judge Hallucination Mitigation*
-
-**`Qwen2.5-7B`** **`FAISS`** **`BM25`** **`Flan-T5`** **`SentenceTransformers`**
-
-- Hybrid retrieval: FAISS (dense) + BM25 (sparse) fused with **RRF**
-- Dual-model: Qwen2.5-7B for generation + Flan-T5-Large for auto-evaluation
-- Hallucination detection using BERTScore, ROUGE-L & ECE on **RAGTruth** benchmark
-- Smart "answerability" system — decides to answer, clarify, or skip
-
-</td>
-<td width="50%" valign="top">
-
-### 📰 [Fake News Detection via Graph Neural Networks](https://github.com/Kankana1012)
-> *Hybrid AI Approach for Misinformation Detection*
-
-**`Python`** **`GNNs`** **`GraphSAGE`** **`LSTM`** **`CNN`** **`Scikit-learn`**
-
-- Compared ML/DL models: LR, SVM, Random Forest, LSTM, CNN, **GraphSAGE**
-- Graph-based model capturing news article relationships
-- TF-IDF + word embeddings for feature extraction
-- Dataset: **~44,898** news articles (Fake + Real)
 
 </td>
 </tr>
-</table>
+
+<td width="50%" valign="top">
+<a href="https://github.com/Kankana1012/RAG_Hallucination_Evaluation_System">
+<img src="./assets/projects/RAG-Hallucination-System-thumbnail.png" alt="RAG Hallucination Evaluation System" width="100%">
+</a>
+
+### [RAG_Hallucination_Evaluation_System](https://github.com/Kankana1012)
+> *AURA-RAG is a retrieval-augmented QA system that gates its own answers —
+combining hybrid retrieval, a calibrated answerability classifier, grounded generation, and a RAGTruth-trained hallucination-risk model on real enterprise tech-support data (IBM TechQA).*
+</td>
 
 ---
 
