@@ -67,7 +67,7 @@
 <img src="./assets/projects/Mental-Care-Chatbot-thumbnail.png" alt="Mental Care Chatbot for Elderly" width="100%">
 </a>
 
-### <img width="38" src="https://img.icons8.com/fluency/96/elderly-person.png"/>[Empathetic AI Mental Care Chatbot for Elderly](https://github.com/Kankana1012)
+### <img width="30" src="https://img.icons8.com/fluency/96/elderly-person.png"/>[Empathetic AI Mental Care Chatbot for Elderly](https://github.com/Kankana1012)
 > *Mental Health Chatbot For The Elderly*
 
 </td>
