@@ -79,8 +79,7 @@
 </a>
 
 ### [RAG_Hallucination_Evaluation_System](https://github.com/Kankana1012)
-> *AURA-RAG is a retrieval-augmented QA system that gates its own answers —
-combining hybrid retrieval, a calibrated answerability classifier, grounded generation, and a RAGTruth-trained hallucination-risk model on real enterprise tech-support data (IBM TechQA).*
+> *AURA-RAG — AI That Knows When to Answer.*
 </td>
 
 ---
