@@ -78,7 +78,7 @@
 <img src="./assets/projects/RAG-Hallucination-System-thumbnail.png" alt="RAG Hallucination Evaluation System" width="100%">
 </a>
 
-### [RAG_Hallucination_Evaluation_System](https://github.com/Kankana1012)
+### 🛡️ [RAG_Hallucination_Evaluation_System](https://github.com/Kankana1012)
 > *AURA-RAG — AI That Knows When to Answer.*
 </td>
 
