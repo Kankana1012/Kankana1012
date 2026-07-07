@@ -102,6 +102,7 @@
 > *Subtitle...*
 </td>
 
+
 <td align="center" width="50%">
 
 ### 🚀 More Projects
@@ -111,12 +112,10 @@ Explore my repositories for additional AI, Machine Learning, Deep Learning, and 
 <a href="https://github.com/Kankana1012?tab=repositories">
 <img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View All Repositories">
 </a>
-
 </td>
-
 </tr>
-
 </table>
+
 ---
 
 ## 🛠️ Tech Stack & Skills
