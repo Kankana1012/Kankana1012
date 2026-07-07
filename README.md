@@ -78,7 +78,7 @@
 <img src="./assets/projects/RAG-Hallucination-System-thumbnail.png" alt="RAG Hallucination Evaluation System" width="100%">
 </a>
 
-### 🛡️ [RAG_Hallucination_Evaluation_System](https://github.com/Kankana1012)
+###   🛡️ [RAG_Hallucination_Evaluation_System](https://github.com/Kankana1012)
 > *AURA-RAG — AI That Knows When to Answer.*
 </td>
 
@@ -87,7 +87,7 @@
 <img src="assets/projects/GlassCRUD-thumnail.png" alt="GlassCRUD - Modern CRUD REST API Application" width="100%">
 </a>
 
-### 🚀 [GlassCRUD - Modern CRUD REST API Application](https://github.com/Kankana1012)
+### 🚀[GlassCRUD - Modern CRUD REST API Application](https://github.com/Kankana1012)
 > *Building scalable CRUD APIs for modern applications.*
 </td>
 ---
