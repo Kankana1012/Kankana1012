@@ -62,7 +62,7 @@
 
 </td>
 
-<td width="50%" valign="top">
+<td align="center" width="50%">
 <a href="https://github.com/Kankana1012/Empathetic_AI_Assistant_SLM_RAG">
 <img src="./assets/projects/Mental-Care-Chatbot-thumbnail.png" alt="Mental Care Chatbot for Elderly" width="100%">
 </a>
@@ -73,7 +73,7 @@
 </td>
 </tr>
 
-<td width="50%" valign="top">
+<td align="center" width="50%">
 <a href="https://github.com/Kankana1012/RAG_Hallucination_Evaluation_System">
 <img src="./assets/projects/RAG-Hallucination-System-thumbnail.png" alt="RAG Hallucination Evaluation System" width="100%">
 </a>
@@ -82,7 +82,7 @@
 > *AURA-RAG — AI That Knows When to Answer.*
 </td>
 
-<td width="50%" valign="top">
+<td align="center" width="50%">
 <a href="https://github.com/Kankana1012/Modern-CRUD-REST-API-Application">
 <img src="assets/projects/GlassCRUD-thumnail.png" alt="GlassCRUD - Modern CRUD REST API Application" width="100%">
 </a>
@@ -90,6 +90,33 @@
 ### 🚀[GlassCRUD - Modern CRUD REST API Application](https://github.com/Kankana1012)
 > *Building scalable CRUD APIs for modern applications.*
 </td>
+</tr>
+
+<tr>
+<td align="center" width="50%">
+<a href="https://github.com/Kankana1012/...">
+<img src="assets/projects/""-thumnail.png" alt="Project name" width="100%">
+</a>
+
+### 🚀[Project Name](https://github.com/Kankana1012)
+> *Subtitle...*
+</td>
+
+<td align="center" width="50%">
+
+### 🚀 More Projects
+
+Explore my repositories for additional AI, Machine Learning, Deep Learning, and Backend Development projects.
+
+<a href="https://github.com/Kankana1012?tab=repositories">
+<img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View All Repositories">
+</a>
+
+</td>
+
+</tr>
+
+</table>
 ---
 
 ## 🛠️ Tech Stack & Skills
