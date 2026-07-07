@@ -84,7 +84,7 @@
 
 <td width="50%" valign="top">
 <a href="https://github.com/Kankana1012/Modern-CRUD-REST-API-Application">
-<img src="./assets/projects/GlassCRUD-thumbnail.png" alt="GlassCRUD - Modern CRUD REST API Application" width="100%">
+<img src="assets/projects/GlassCRUD-thumnail.png" alt="GlassCRUD - Modern CRUD REST API Application" width="100%">
 </a>
 
 ### 🚀 [GlassCRUD - Modern CRUD REST API Application](https://github.com/Kankana1012)
