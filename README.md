@@ -82,6 +82,17 @@
 > *AURA-RAG — AI That Knows When to Answer.*
 </td>
 
+
+<td align="center" width="50%">
+<a href="https://github.com/Kankana1012/TruthLens.AI_AI-Powered_Fake_News_Detection_Platform">
+<img src="assets/projects/TruthLens.AI-thumbnail.png" alt="TruthLens.AI_AI-Powered_Fake_News_Detection_Platform" width="100%">
+</a>
+
+### 🚀[TruthLens.AI_AI-Powered_Fake_News_Detection_Platform](https://github.com/Kankana1012/TruthLens.AI_AI-Powered_Fake_News_Detection_Platform)
+> *Seeing Beyond Headlines. Trusting Intelligence.*
+</td>
+</tr>
+
 <td align="center" width="50%">
 <a href="https://github.com/Kankana1012/Modern-CRUD-REST-API-Application">
 <img src="assets/projects/GlassCRUD-thumnail.png" alt="GlassCRUD - Modern CRUD REST API Application" width="100%">
@@ -89,17 +100,6 @@
 
 ### 🚀[GlassCRUD - Modern CRUD REST API Application](https://github.com/Kankana1012)
 > *Building scalable CRUD APIs for modern applications.*
-</td>
-</tr>
-
-<tr>
-<td align="center" width="50%">
-<a href="https://github.com/Kankana1012/...">
-<img src="assets/projects/""-thumnail.png" alt="Project name" width="100%">
-</a>
-
-### 🚀[Project Name](https://github.com/Kankana1012)
-> *Subtitle...*
 </td>
 
 
